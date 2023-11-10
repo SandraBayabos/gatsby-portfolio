@@ -24,7 +24,7 @@ export const aboutData = {
     'Looking for full-time frontend remote roles, but also willing to take on short-term freelance jobs.',
   paragraphThree:
     'Mostly work with ReactJS, but willing to self-learn other frontend stacks for the role.',
-  resume: 'https://drive.google.com/file/d/15jrTgwlEtRkFZquHZce6kiswIQbMzHQI/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/15gYoAK13fEPwt15g216Bzrj8gVXtEbVa/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
